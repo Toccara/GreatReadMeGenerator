@@ -4,7 +4,11 @@
 
 ## Description
 
-Create ReadMe for applications
+Create ReadMe Generator via command line.
+
+<iframe src="https://drive.google.com/file/d/117tTAuJZPVFxu3eRUc1QG-gyXkhy0zMX/preview" width="640" height="480"></iframe>
+
+
 
 ## Table of Contents
 
@@ -18,15 +22,15 @@ Create ReadMe for applications
 
   ## Installation
 
-  To install necessary dependencies, run the following command
+  To install necessary dependencies, run the following command:
 
-  Clone this repository for use in Visual Studio Code.
 
-  ![1607451684978.gif](./1607451684978.gif)
-
+  ```
+  npm install
+  ```
   ## Usage
 
-  node index. js command will prompt you through a series of questions to create a ReadMe file.
+  Create ReadMe files for application use.
 
   ## License
 
@@ -34,16 +38,14 @@ Create ReadMe for applications
 
   ## Contributing
 
-  Please contact me at the email address listed below regarding any concerns and questions about contributions.
+  Please email me at the email address listed below regarding any questions
 
   ## Tests
 
   To run tests, run the following command:
 
+  node index.js
 
-  ```
-  Test often and Early.
-  ```
   ## Questions
 
-  If you have any questions about the repo, open an issue or contact me directly at toccarahicks11@gmail.com. You can find more of my work at [Toccara Hicks](https://github.com/Toccara Hicks/).
+  If you have any questions about the repo, open an issue or contact me directly at toccarahicks11@gmail.com. You can find more of my work at [Toccara](https://github.com/Toccara/).
