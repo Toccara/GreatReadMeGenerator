@@ -18,10 +18,11 @@ Create ReadMe for applications
 
   ## Installation
 
-  To install necessary dependencies, run the following command:
+  To install necessary dependencies, run the following command
 
-  node index.js
+  Clone this repository for use in Visual Studio Code.
 
+  ![1607451684978.gif](./1607451684978.gif)
 
   ## Usage
 
@@ -33,7 +34,7 @@ Create ReadMe for applications
 
   ## Contributing
 
-  undefined
+  Please contact me at the email address listed below regarding any concerns and questions about contributions.
 
   ## Tests
 
